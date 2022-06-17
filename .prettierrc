@@ -1,0 +1,10 @@
+{
+    "tabWidth": 4,
+    "useTabs": true,
+    "insertSpaces": true,
+    "trimTrailingWhitespace": true,
+    "insertFinalNewline": false,
+    "trimFinalNewlines": true,
+    "eol": "\n",
+    "endOfLine": "auto"
+}
